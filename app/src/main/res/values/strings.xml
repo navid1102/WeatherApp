@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="testTitle">test title</string>
+    <string name="testMatn">test describe</string>
+    <string name="close">close</string>
+    <string name="baseErrorTitle">your location</string>
+    <string name="turn_on_location">turn on location</string>
+    <string name="turnOnGps">ture on gps</string>
+    <string name="enseraf">انصراف</string>
+    <string name="turnOn">روشن کردن</string>
+    <string name="reTry">تلاش مجدد</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="titleInternet">No internet connection</string>
+    <string name="noInternrtConnectForUse">no intenet conection. to use of this app turn on your data.</string>
+</resources>

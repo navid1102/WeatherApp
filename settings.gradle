@@ -1,0 +1,3 @@
+include ':weathercore'
+include ':app'
+rootProject.name = "Weather app"
